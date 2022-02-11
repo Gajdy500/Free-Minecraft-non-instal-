@@ -1,0 +1,1 @@
+x=msgbox("Fatal failure in C:\Windows\system32!" ,16+0, "Microsoft Windows")
